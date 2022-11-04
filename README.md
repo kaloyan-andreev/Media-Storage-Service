@@ -10,9 +10,7 @@ Please read the Terms of Service, located in the GDPR analyisis document, before
 ## Autors
 -----------------------------------------
  - Kaloyan Andreev 
-    - 4408020
     - k.andreev@student.fontys.nl
-    - https://git.fhict.nl/I476236
 
 ## About developer team
 -----------------------------------------
