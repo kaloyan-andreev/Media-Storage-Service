@@ -7,10 +7,6 @@ The data will be stored on a server for the security of which all necessary meas
 Server. Security measures will be also taken for it.
 Please read the Terms of Service, located in the GDPR analyisis document, before using this application.
 
-## Visuals
------------------------------------------
-
-
 ## Autors
 -----------------------------------------
  - Kaloyan Andreev 
